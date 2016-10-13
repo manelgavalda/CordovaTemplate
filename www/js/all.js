@@ -1,3 +1,7 @@
+/**
+ * Created by manel on 13/10/16.
+ */
+console.log("Hello World");
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -90,3 +94,4 @@ eval("/*!\n * Bootstrap v3.3.7 (http://getbootstrap.com)\n * Copyright 2011-2016
 
 /***/ }
 /******/ ]);
+//# sourceMappingURL=all.js.map
